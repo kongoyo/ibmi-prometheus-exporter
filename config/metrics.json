@@ -37,5 +37,15 @@
       "JOURNAL_RECOVERY_COUNT",
       "JOURNAL_CACHE_WAIT_TIME"
     ]
+  },
+  {
+    "name": "SYSTEM_ACTIVITY_INFO",
+    "table": "QSYS2.SYSTEM_ACTIVITY_INFO",
+    "metricsList": [
+      "AVERAGE_CPU_RATE",
+      "AVERAGE_CPU_UTILIZATION",
+      "MINIMUM_CPU_UTILIZATION",
+      "MAXIMUM_CPU_UTILIZATION"
+    ]
   }
 ]
